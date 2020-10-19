@@ -1,3 +1,7 @@
+![Run unit tests](https://github.com/ewawieczorek/ci-course/workflows/Run%20unit%20tests/badge.svg)
+
+![Run on multiple OS](https://github.com/ewawieczorek/ci-course/workflows/Run%20on%20multiple%20OS/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
